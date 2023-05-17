@@ -1,4 +1,4 @@
-# GANS
+# GANs
 In this repository, i will be implementing GAN algorithms from scratch.
 
 # GANs that I have implemented
