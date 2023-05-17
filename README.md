@@ -8,6 +8,7 @@ In this repository, i will be implementing GAN algorithms from scratch.
 # Libraries that I used
 - PyTorch
 - Matplotlib
+- OS
 
 # Generated Images
 <img src = 'Images/mn.png' alt = 'Fake Images'>
